@@ -8,6 +8,9 @@ This project utilizes Power BI to create an interactive dashboard for analyzing 
 - Identify key factors contributing to customer churn.
 - Provide actionable insights through visualized KPIs and trends.
 
+![Screenshot 2025-01-10 203326](https://github.com/user-attachments/assets/4b4b711c-e5b7-41bd-b62f-886b8912c867)
+
+
 ## Key Features
 1. **KPIs Tracked:**
    - Total Customers
